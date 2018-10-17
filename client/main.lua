@@ -1,10 +1,10 @@
---------------------------
---        NGRP.PL       --
--- Author: Ezi          --
--- Discord: Ezi#2639    --
--- Version: 0.1v        --
---                      --
---------------------------
+--------------------------------
+--        NGRP.PL             --
+-- Author: Ezi & .Bin         --
+-- Discord: Ezi#2639          --
+-- Version: 0.1v              --
+--                            --
+--------------------------------
 
 local lastBone = nil
 local damagedParts = {}
@@ -60,7 +60,7 @@ Citizen.CreateThread(function()
           if part.count * 25 >= 100 then
             color = {r = 124, g = 10, b = 2}
           end
-          DrawText3D(pos.x, pos.y, pos.z, 'Obrażenia '..'['.. part.count * 25 ..'%]', color)
+          DrawText3D(pos.x, pos.y, pos.z, 'Damage '..'['.. part.count * 25 ..'%]', color)
         end
       end
     end
