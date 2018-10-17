@@ -1,7 +1,6 @@
 resource_manifest_version "44fhb6ba-d386-j61k-lfbjk-587127f4edm89"
 
 Discription "NGRP Damage System"
-Author "Ezi & .Bin"
 
 Version "0.1"
 
