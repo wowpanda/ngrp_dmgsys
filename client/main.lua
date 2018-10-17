@@ -1,6 +1,6 @@
 --------------------------------
 --        NGRP.PL             --
--- Author: Ezi & .Bin         --
+-- Author: Ezi                --
 -- Discord: Ezi#2639          --
 -- Version: 0.1v              --
 --                            --
